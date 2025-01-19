@@ -4,9 +4,6 @@
   <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/logo.png" alt="Fixyfier Logo" />
 </p>
 
-## Important Notice
-Please be aware of fake repositories claiming to be associated with this project. Always verify that you are using the official repository by checking the URL and the repository owner's profile.
-
 ## Table of Contents
 - [Description](#description)
 - [Key Features](#key-features)
