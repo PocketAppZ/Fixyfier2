@@ -16,8 +16,8 @@ This is the release repository for **Fixyfier**, a comprehensive toolkit designe
 
 ## UI Showcase
 <p align="center">
-  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/ui-1.png" alt="UI 1" width="500" />
-  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/ui-2.png" alt="UI 2" width="500" />
+  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/ui-1.png" alt="UI 1" />
+  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/ui-2.png" alt="UI 2" />
 </p>
 
 ## Key Features
@@ -28,8 +28,8 @@ This is the release repository for **Fixyfier**, a comprehensive toolkit designe
 - 📊 **Real-Time Insights:** Gain instant visibility into your system's status through detailed reports and live progress updates.
 
 <p align="center">
-  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/ui-3.png" alt="UI 3" width="500" />
-  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/ui-4.png" alt="UI 4" width="500" />
+  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/ui-3.png" alt="UI 3" />
+  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/ui-4.png" alt="UI 4" />
 </p>
 
 Whether you're optimizing performance, resolving technical issues, or conducting routine maintenance, **Fixyfier** equips you with everything needed to ensure your PC operates at its best.
