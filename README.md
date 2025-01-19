@@ -6,6 +6,7 @@
 
 ## Table of Contents
 - [Description](#description)
+- [UI Showcase](#ui-showcase)
 - [Key Features](#key-features)
 - [How to Use](#how-to-use)
 - [License](#license)
@@ -13,12 +14,23 @@
 ## Description
 This is the release repository for **Fixyfier**, a comprehensive toolkit designed for PC maintenance, optimization, and troubleshooting. Whether you are an IT professional or an everyday user, **Fixyfier** provides a user-friendly solution exclusively for Windows operating systems.
 
+## UI Showcase
+<p align="center">
+  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/ui-1.png" alt="UI 1" width="500" />
+  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/ui-2.png" alt="UI 2" width="500" />
+</p>
+
 ## Key Features
 - 🛠️ **Integrated Diagnostics:** Perform in-depth analyses to swiftly detect and address system errors, network disruptions, and performance inefficiencies.
 - 🧰 **Versatile Toolkit:** Leverage a wide array of utilities designed for tasks such as disk optimization, system integrity checks, network configuration, and more.
 - 🖥️ **Intuitive Interface:** Navigate seamlessly through well-structured menus and prompts, enabling efficient execution of complex processes.
 - ⚙️ **Customizable Workflows:** Adapt solutions to meet your unique requirements with advanced configuration options and settings.
 - 📊 **Real-Time Insights:** Gain instant visibility into your system's status through detailed reports and live progress updates.
+
+<p align="center">
+  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/ui-3.png" alt="UI 3" width="500" />
+  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/assets/images/ui-4.png" alt="UI 4" width="500" />
+</p>
 
 Whether you're optimizing performance, resolving technical issues, or conducting routine maintenance, **Fixyfier** equips you with everything needed to ensure your PC operates at its best.
 
