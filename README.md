@@ -39,7 +39,6 @@ Elevate your PC management experience with **Fixyfier**—a powerful and adaptab
 ## How to Use
 1. [Download the latest archive](/Fixyfier.zip?raw=true) or [the executable file from the release page](https://github.com/arisvardakas/Fixyfier/releases).
 2. Start `Fixyfier.exe`.
-3. Follow the intuitive interface to perform maintenance, optimization, and troubleshooting tasks with ease.
 
 ## License
 This project is licensed under the Fixyfier License Agreement. Please refer to the [LICENSE](LICENSE) file for more details.
