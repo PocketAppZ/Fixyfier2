@@ -5,7 +5,7 @@
 </p>
 
 ## Important Notice
-Some antivirus programs may falsely detect `Fixyfier.exe` as malware. This is a known issue, and the file is safe to use. This often happens with new and portable applications. It is recommended to add an exception in your antivirus software if this issue is encountered.
+Some antivirus programs may falsely detect `Fixyfier.exe` as malware. This is a known issue, and the file is safe to use. It is recommended to add an exception in your antivirus software if this issue is encountered.
 
 ## Table of Contents
 - [Description](#description)
