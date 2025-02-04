@@ -29,18 +29,16 @@ With **Fixyfier**, you can quickly address problems such as network issues, syst
 - 🔄 **System Recovery:** Run critical recovery tools that help restore damaged system files, repair Windows components, and fix common issues without a full reinstall.
 - 🖥️ **Centralized Interface:** Access all the essential repair utilities in a straightforward, intuitive interface, simplifying complex troubleshooting tasks.
 - ⚙️ **Pre-existing Windows Utilities:** Consolidates Windows' native repair tools like DISM, SFC, and the Windows Troubleshooters, so you don't need to remember different commands or navigate through multiple menus.
-- 📊 **Detailed Repair Reports:** Get immediate feedback on the health of your system, with detailed reports on repairs completed, issues detected, and fixes applied.
+- 📊 **Detailed Repair Reports:** Get immediate feedback on the health of your system, with detailed reports on repairs completed, and fixes applied.
 - 📑 **Log File Generation:** Generate your system's current log files, such as event logs or error reports, for further analysis and troubleshooting. These logs provide valuable insight into your system's status and any ongoing issues.
-- 📝 **Batch File Creation:** Need to repeat a repair? **Fixyfier** lets you generate batch files for any repair task, making it easier to automate repairs or execute them at a later time.
+- 📝 **Batch File Creation:** Need to repeat a repair? Fixyfier lets you generate batch files for any repair task, making it easier to automate repairs or execute them at a later time.
+- ⏱️ **Real-Time Monitoring:** Stay ahead of potential issues with continuous health checks on system performance and resource usage, ensuring proactive troubleshooting.
 
 Whether you're fixing network issues, repairing corrupt system files, or resolving performance problems, **Fixyfier** empowers you with the tools needed to restore your system to optimal health.
 
 ## How to Use
 1. [Download the latest archive](/Fixyfier.zip?raw=true) or [the executable file from the release page](https://github.com/arisvardakas/Fixyfier/releases).
 2. Launch `Fixyfier.exe`.
-3. Choose the repair tool relevant to the issue you're experiencing and let **Fixyfier** handle the rest.
-4. If needed, use the log generation option to capture your system's current logs for analysis.
-5. Optionally, create batch files for repeated repairs or automation.
 
 ## License
 This project is licensed under the Fixyfier License Agreement. Please refer to the [LICENSE](LICENSE) file for more details.
