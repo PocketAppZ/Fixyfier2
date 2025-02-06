@@ -4,6 +4,8 @@
   <img src="https://github.com/arisvardakas/Fixyfier/blob/main/images/logo.png" alt="Fixyfier Logo" />
 </p>
 
+[![Donate](images/donate.gif)](https://paypal.me/avardak)
+
 ## Important Notice
 Some antivirus programs may falsely detect `Fixyfier.exe` as malware. This is a known issue, and the file is safe to use. It is recommended to add an exception in your antivirus software if this issue is encountered.
 
@@ -42,8 +44,6 @@ Whether you're fixing network issues, repairing corrupt system files, or resolvi
 
 ## License
 This project is licensed under the Fixyfier License Agreement. Please refer to the [LICENSE](LICENSE) file for more details.
-
-[![Donate](images/donate.gif)](https://paypal.me/avardak)
 
 ---
 
