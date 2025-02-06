@@ -15,8 +15,8 @@ Some antivirus programs may falsely detect `Fixyfier.exe` as malware. This is a 
 - [License](#license)
 
 ## Description
-Welcome to **Fixyfier**—your go-to tool for repairing and fixing common Windows system issues. This toolkit centralizes essential Windows repair functions, allowing you to efficiently restore and resolve various system problems. Designed for both IT professionals and everyday users, **Fixyfier** helps repair your system's functionality without the complexity of navigating multiple settings or external tools.
-With **Fixyfier**, you can quickly address problems such as network issues, system file corruption, and other functionality disruptions—all from a single, unified interface. It's a one-stop solution to fix the core components of your Windows system, ensuring smooth performance and stability.
+Welcome to **Fixyfier**, your go-to tool for repairing and fixing common Windows system issues. This toolkit centralizes essential Windows repair functions, allowing you to efficiently restore and resolve various system problems. Designed for both IT professionals and everyday users, **Fixyfier** helps repair your system's functionality without the complexity of navigating multiple settings or external tools.
+With **Fixyfier**, you can quickly address problems such as network issues, system file corruption, and other functionality disruptions, all from a single, unified interface. It's a one-stop solution to fix the core components of your Windows system, ensuring smooth performance and stability.
 
 ## UI Showcase
 <p align="center">
@@ -47,4 +47,4 @@ This project is licensed under the Fixyfier License Agreement. Please refer to t
 
 ---
 
-Thank you for choosing **Fixyfier**! May it help resolve your Windows issues quickly and efficiently.
+Thank you for choosing **Fixyfier**. May it help resolve your Windows issues quickly and efficiently.
