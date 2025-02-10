@@ -4,7 +4,7 @@
   <img src="https://github.com/arisvardakas/Fixyfier/blob/main/images/logo.png" alt="Fixyfier Logo" />
 </p>
 
-[![Donate](images/donate.gif)](https://paypal.me/avardak)
+[![Donate](images/donate.gif)](https://www.paypal.com/donate/?hosted_button_id=5ZA38NSJHMWHJ)
 
 ## Important Notice
 Some antivirus programs may falsely detect `Fixyfier.exe` as malware. This is a known issue, and the file is safe to use. It is recommended to add an exception in your antivirus software if this issue is encountered.
