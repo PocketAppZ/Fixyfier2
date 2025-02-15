@@ -11,7 +11,6 @@ Some antivirus programs may falsely detect `Fixyfier.exe` as malware. This is a 
 
 ## Table of Contents
 - [Description](#description)
-- [UI Showcase](#ui-showcase)
 - [Key Features](#key-features)
 - [How to Use](#how-to-use)
 - [License](#license)
