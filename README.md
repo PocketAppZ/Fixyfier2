@@ -19,12 +19,6 @@ Some antivirus programs may falsely detect `Fixyfier.exe` as malware. This is a 
 ## Description
 Welcome to **Fixyfier**, your go-to software for repairing, tweaking, and fixing common Windows system issues. This software centralizes essential Windows repair functions, allowing you to efficiently restore, tweak, and resolve various system problems. Designed for both IT professionals and everyday users, **Fixyfier** helps repair and tweak your system's functionality without the complexity of navigating multiple settings or external tools. With **Fixyfier**, you can quickly address problems such as network issues, system file corruption, and other functionality disruptions, all from a single, unified interface. It's a one-stop solution to fix and tweak the core components of your Windows system, ensuring smooth performance and stability.
 
-## UI Showcase
-<p align="center">
-  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/images/ui-light.png" alt="UI Light" />
-  <img src="https://github.com/arisvardakas/Fixyfier/blob/main/images/ui-dark.png" alt="UI Dark" />
-</p>
-
 ## Key Features
 - 🛠️ **Integrated Repair Tools:** Utilize a range of built-in Windows repair functionalities, including system file checker, network diagnostics, and more, all from one place.
 - 🔄 **System Recovery:** Run critical recovery tools that help restore damaged system files, repair Windows components, and fix common issues without a full reinstall.
